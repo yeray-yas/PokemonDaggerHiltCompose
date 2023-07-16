@@ -1,4 +1,4 @@
-package com.yerayyas.daggerhiltcompose.ui.theme
+package com.yerayyas.daggerhiltcompose.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
